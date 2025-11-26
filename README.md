@@ -1,160 +1,150 @@
-API de Pesquisa e Análise de Cadeias Produtivas
-Dashboard Integrado ao Power BI para Análise de Cadeias Produtivas do Vale do Paraíba e do Brasil
-📄 Sumário Executivo
+<h1 align="center">📊 Projeto — API de Pesquisa e Análise de Cadeias Produtivas</h1>
 
-Este projeto tem como objetivo desenvolver uma API e um dashboard integrado ao Power BI para análise de cadeias produtivas do Vale do Paraíba e do Brasil.
-A solução organiza e disponibiliza grandes volumes de dados econômicos de múltiplas fontes (cada uma com mais de 1 milhão de registros), permitindo consultas rápidas, filtragem avançada e geração de relatórios estratégicos para gestores, pesquisadores, empresas e órgãos públicos.
+<h3 align="center">Conclusão do Projeto | Power BI + Integração de Dados</h3>
 
-📍 Contextualização
+---
 
-Atualmente, as informações sobre cadeias produtivas estão dispersas em diversas bases, apresentando:
+## 📝 Descrição Geral
 
-Falta de padronização
+Este repositório apresenta o desenvolvimento do projeto de análise e visualização de cadeias produtivas do Vale do Paraíba e do Brasil, integrando cinco grandes bases de dados (cada uma com mais de um milhão de registros).  
+Ao longo de três sprints, foram desenvolvidos dashboards no Power BI, realizado o tratamento das bases e produzidas pesquisas aprofundadas sobre a cadeia produtiva da Embraer, conforme orientações do cliente.
 
-Dificuldade de integração entre fontes
+A solução permite:
 
-Demora na geração de relatórios
+- Consultas rápidas e filtragens avançadas  
+- Visualizações estratégicas  
+- Apoio à tomada de decisão  
+- Integração com Power BI  
+- Análises por setor, município e produto  
 
-Limitações no suporte à tomada de decisão
+---
 
-O projeto integra cinco grandes bases de dados, com códigos e informações estratégicas sobre setores econômicos, criando um sistema de consulta centralizado com exportação e visualização via Power BI.
+## 🚀 Conclusão Geral do Projeto
 
-🎯 Objetivos do Projeto
+O projeto evoluiu de forma consistente ao longo das três sprints, passando desde a integração das bases e criação do dashboard inicial até a análise detalhada da cadeia produtiva da Embraer e a investigação dos picos de exportação no fim do ano, conforme o feedback do cliente.
 
-Criar uma ferramenta centralizada para consulta de dados produtivos.
+---
 
-Integrar múltiplas fontes em uma base única e padronizada.
+# 📅 Sprint 1 — Integração e Dashboard Inicial
 
-Disponibilizar dashboards estratégicos com filtros, rankings e análises temporais.
+### ✔ Entregas Principais
+- Unificação das bases de dados no Google Colab
+- Tratamento dos dados (SH4, países, municípios, VL_FOB etc.)  
+- Criação da base consolidada com 5 anos de exportações  
+- Desenvolvimento do primeiro dashboard no Power BI  
+- Análise inicial dos indicadores estratégicos  
+- Publicação do repositório e documentação inicial  
 
-Oferecer suporte à tomada de decisão por gestores, pesquisadores e empresas.
+---
 
-Entregar documentação clara para desenvolvedores e usuários finais.
+## 📸 Dashboards da Sprint 1  
 
-🧩 Descrição do Problema
+<img width="1467" height="811" alt="API1" src="https://github.com/user-attachments/assets/3f7df0b6-3aee-49b2-bb23-68181e954b52" />
 
-Ausência de centralização das informações.
 
-Dificuldades para gerar relatórios estratégicos.
+---
 
-Lentidão no processo analítico devido ao alto volume de dados.
+# 📅 Sprint 2 — Melhorias, Feedback do Cliente e Pesquisas
 
-Falta de visão integrada sobre setores produtivos e suas evoluções.
+### ✔ Entregas Principais
+- Ajustes no dashboard com base no feedback do cliente  
+- Criação de novos visuais, filtros e segmentações  
+- Revisão da modelagem da base para facilitar análises  
+- Início das pesquisas sobre a cadeia produtiva da Embraer:  
+  - Principais produtos  
+  - Fluxo produtivo  
+  - Impacto econômico  
+- Documentação das melhorias e publicação da versão atualizada  
 
-Necessidade de suporte ágil para pesquisadores e gestores.
+---
 
-💡 Solução Proposta
-✔️ Desenvolvimento de um dashboard unificado no Power BI
-✔️ Criação de uma API para consulta, filtragem e integração dos dados
-✔️ Padronização e enriquecimento das bases
-✔️ Visualizações estratégicas, incluindo:
+## 📸 Dashboards da Sprint 2  
 
-Evolução temporal
+<img width="1422" height="797" alt="Sem título" src="https://github.com/user-attachments/assets/0fcf9e9c-0d63-4a48-96a3-edbf49511898" />
+<img width="1431" height="806" alt="EXP" src="https://github.com/user-attachments/assets/8547723f-576d-46c5-b30c-69a4a3ac5987" />
+<img width="1429" height="794" alt="MAIS" src="https://github.com/user-attachments/assets/1c17e262-1ce1-4060-aa4c-e4d8a1004031" />
+<img width="1417" height="795" alt="MAIS IMP" src="https://github.com/user-attachments/assets/24097ae9-53b4-48d0-a5cb-5154d30319da" />
 
-Rankings de produtos
 
-Análise por município
 
-Comparações entre anos
+---
 
-Mapas geográficos (Mapbox)
+# 📅 Sprint 3 — Filtragem Avançada e Pesquisa Aprofundada da Embraer
 
-✔️ Documentação valida e acessível
-✔️ Fluxo de atualização dos dados (manual ou automatizado — a definir)
-📊 Dashboards Desenvolvidos
+### ✔ Entregas Principais
+- Filtragem avançada dos produtos da cadeia produtiva da Embraer  
+- Segmentação detalhada por município, país e produto  
+- Pesquisa aprofundada sobre os picos de exportação no fim do ano  
+- Justificativas fundamentadas em:
+  - Sazonalidade do setor aeronáutico  
+  - Entregas concentradas no último trimestre  
+  - Fechamento de contratos internacionais  
+  - Ritmo de produção e cronogramas industriais  
+- Documentação final do dashboard  
 
-Linha temporal de exportações (mensal e anual)
+---
 
-Ranking dos produtos mais exportados
+## 📸 Dashboards da Sprint 3  
+🖼️ *Adicione aqui os prints da Sprint 3*
 
-Mapa geográfico interativo (latitude/longitude)
+![Sprint 3 - Dashboard](./images/sprint3-dashboard.png)  
+![Sprint 3 - Produtos Filtrados](./images/sprint3-produtos.png)
 
-Segmentadores: ano, município e produto
+---
 
-Tabela dinâmica de produtos por município
+# 🧠 Pesquisas da Cadeia Produtiva — EMBRAER ✈️
 
-Base filtrada para os municípios:
-Caçapava, Ilhabela, Jacareí, São José dos Campos, São Sebastião e Taubaté.
+*(Espaço reservado para as análises do grupo.)*
 
-🗂️ Estrutura de Dados e Tratamentos Realizados
+### ✈️ 1. Visão Geral da Cadeia Produtiva
+- História e evolução  
+- Linhas de aeronaves  
+- Principais fornecedores  
+- Etapas produtivas  
 
-Integração das bases dos últimos 5 anos
+### ✈️ 2. Principais Produtos Exportados
+- Modelos de aeronaves  
+- Componentes e peças (NCM/SH4)  
+- Países compradores  
 
-Enriquecimento com nomenclatura SH4
+### ✈️ 3. Análise dos Picos de Exportação no Final do Ano
+*(Inserir a pesquisa final aqui.)*
 
-Conversão de códigos de países para nomes
+- Entregas concentradas no último trimestre  
+- Contratos internacionais fechados no fim do ano  
+- Planejamento e sazonalidade da produção  
+- Padrões globais da indústria aeronáutica  
 
-Integração com códigos e nomes de municípios
+---
 
-Padronização e limpeza (acentos, numéricos, nomes)
+# 💬 Feedback do Cliente
 
-Construção de tabela calendário
+*(Adicionar os feedbacks reais aqui)*
 
-Exportação para CSV e integração ao Power BI
+Exemplos:
 
-👥 Equipe do Projeto
-Integrante	Função
-Anita Izabel Leonel Confessor	Relatórios analíticos
-Breno Santos Pardal Ribas	Gestão, integração e validação da base de dados
-Karolini Gabrielli Frigi de Moraes	Apresentação do projeto no Canva
-Rafaela Luisa da Silva Moreira	Estruturação do repositório, imagens do Power BI e documentação (README)
-Rafael Barroso Bastos	Construção dos dashboards no Power BI
+- “Dashboard intuitivo e visualmente claro.”  
+- “Necessidade de aprofundar a análise da Embraer.”  
+- “Filtrar produtos específicos da cadeia produtiva.”  
+- “Explicar motivo dos picos no final do ano.”  
 
-Scrum Master: Breno Santos Pardal Ribas
-Organização no Asana: Rafaela Luisa da Silva Moreira
+---
 
-🛠️ Ferramentas Utilizadas
+# 📌 Backlog Geral do Projeto  
 
-Power BI
+| Item | Descrição | Status |
+|------|-----------|--------|
+| 1 | Unificação das bases no Colab | ✔ Concluído |
+| 2 | Criação do Dashboard da Sprint 1 | ✔ Concluído |
+| 3 | Ajustes pós-feedback (Sprint 2) | ✔ Concluído |
+| 4 | Pesquisa da cadeia produtiva | ✔ Concluído |
+| 5 | Filtragem dos produtos (Sprint 3) | ✔ Concluído |
+| 6 | Análise dos picos da Embraer | ✔ Concluído |
+| 7 | Criação da API de consulta | ⏳ Em desenvolvimento |
+| 8 | Atualização automática das bases | ⏳ A definir |
+| 9 | Novas cadeias produtivas | ⏳ Futuro |
+| 10 | Documentação estendida da API | ⏳ Futuro |
 
-Python / Jupyter / Pandas
+---
 
-Mapbox
-
-Asana (gerenciamento das sprints)
-
-GitHub (documentação e repositório)
-
-Canva (apresentações)
-
-🧪 Cronograma e Sprints
-Sprint 1 — Concluída em 04/10/2025
-
-Integração das bases
-
-Tratamentos e padronização
-
-Desenvolvimento dos dashboards
-
-Documentação e apresentação
-
-Publicação final por Rafaela em 05/10/2025
-
-❓ Perguntas em Aberto
-
-Quais filtros são prioritários? (setor, região, período, códigos)
-
-Qual será o nível de acesso à API?
-
-Haverá exportação para PDF/Excel diretamente pela aplicação?
-
-Atualização dos dados será automática ou manual?
-
-⚠️ Riscos Identificados
-
-Complexidade técnica das integrações
-
-Inconsistências e lacunas nas bases
-
-Curto prazo para o MVP
-
-Dependência de ferramentas externas (Power BI e servidores)
-
-Risco de baixa adoção se os indicadores não forem úteis
-
-📌 Conclusão
-
-A Sprint 1 estabeleceu a base técnica e estrutural do projeto.
-O grupo demonstrou alinhamento, organização e capacidade de tratar grandes volumes de dados, entregando dashboards funcionais, documentação clara e materiais visuais.
-
-O projeto segue com fundamento sólido para as próximas fases de desenvolvimento e escalabilidade.
+<h3 align="center">🔧 Desenvolvido pelo Grupo — Gestão da Produção Industrial | 2025</h3
