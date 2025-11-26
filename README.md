@@ -2,7 +2,25 @@
 
 <h3 align="center">Conclusão do Projeto | Power BI + Integração de Dados</h3>
 
+## 👥 Participantes do Projeto
+
+ | Nome | Função no Projeto |
+|------|-------------------|
+| Anita Confessor |  Equipe de Desenvolvimento|
+| Breno Ribas | Scrum Master |
+| Karolini Moraes | Equipe de Desenvolvimento|
+| Rafael Bastos | Equipe de Desenvolvimento |
+| Rafaela Moreira | Product Owner |
+
 ---
+
+## 🧑‍💼 Cliente
+
+**Marcus Vinícius**  
+Responsável pelo feedback técnico, validação das entregas e direcionamento da análise da cadeia produtiva.
+
+---
+
 
 ## 📝 Descrição Geral
 
@@ -85,48 +103,102 @@ O projeto evoluiu de forma consistente ao longo das três sprints, passando desd
 ---
 
 ## 📸 Dashboards da Sprint 3  
-🖼️ *Adicione aqui os prints da Sprint 3*
 
-![Sprint 3 - Dashboard](./images/sprint3-dashboard.png)  
-![Sprint 3 - Produtos Filtrados](./images/sprint3-produtos.png)
+<img width="1446" height="804" alt="FILTO2" src="https://github.com/user-attachments/assets/e0f74641-63e6-4b43-b37e-3cf902979616" />
+<img width="1432" height="806" alt="FILTO" src="https://github.com/user-attachments/assets/0a0c84d4-b5ee-406f-b094-0af02b50eecf" />
 
 ---
 
 # 🧠 Pesquisas da Cadeia Produtiva — EMBRAER ✈️
 
-*(Espaço reservado para as análises do grupo.)*
 
-### ✈️ 1. Visão Geral da Cadeia Produtiva
-- História e evolução  
-- Linhas de aeronaves  
-- Principais fornecedores  
-- Etapas produtivas  
+A seguir está a análise desenvolvida pelo grupo para explicar o padrão de aumento das exportações da Embraer no último trimestre de cada ano.
 
-### ✈️ 2. Principais Produtos Exportados
-- Modelos de aeronaves  
-- Componentes e peças (NCM/SH4)  
-- Países compradores  
-
-### ✈️ 3. Análise dos Picos de Exportação no Final do Ano
-*(Inserir a pesquisa final aqui.)*
-
-- Entregas concentradas no último trimestre  
-- Contratos internacionais fechados no fim do ano  
-- Planejamento e sazonalidade da produção  
-- Padrões globais da indústria aeronáutica  
+### 📌 Resumo da Análise
+Ao longo das análises e dos relatórios anuais, identificamos quatro fatores principais que justificam o crescimento das exportações nos meses finais:
 
 ---
 
-# 💬 Feedback do Cliente
+### **1. Concentração das entregas no quarto trimestre**
+- A Embraer realiza a maior parte das entregas **entre outubro e dezembro**.
+- Clientes internacionais costumam **receber aeronaves antes do fechamento fiscal**.
+- Como mais aeronaves são entregues, o volume exportado aumenta automaticamente.
 
-*(Adicionar os feedbacks reais aqui)*
+---
 
-Exemplos:
+### **2. Demanda internacional elevada**
+- Mais de **90% das vendas** da Embraer são para o exterior.
+- **2021:** retomada pós-pandemia, com forte recuperação.
+- **2022 e 2023:** crescimento contínuo do setor aeronáutico global.
+- **2024:** maior volume de entregas do intervalo analisado.
+- A demanda externa elevada puxa o aumento das exportações no fim do ano.
 
-- “Dashboard intuitivo e visualmente claro.”  
-- “Necessidade de aprofundar a análise da Embraer.”  
-- “Filtrar produtos específicos da cadeia produtiva.”  
-- “Explicar motivo dos picos no final do ano.”  
+---
+
+### **3. Backlog crescente (carteira de pedidos)**
+- Em diversos relatórios, especialmente 2023, a Embraer destaca que o backlog está **cada vez maior**.
+- Com mais pedidos acumulados, a empresa acelera entregas no fim do ano para **cumprir contratos internacionais**.
+- Isso contribui diretamente para o aumento das exportações.
+
+---
+
+### **4. Eficiência industrial e normalização da cadeia produtiva**
+- A Embraer vem apresentando avanços contínuos:
+  - aumento da eficiência operacional,
+  - normalização da cadeia de suprimentos,
+  - maior capacidade de produção.
+- Isso permite que **mais aeronaves fiquem prontas no fim do ano**, ampliando o volume exportado.
+
+---
+
+### 🧾 **Conclusão da Pesquisa**
+Os picos de exportação da Embraer no fim do ano acontecem devido a uma combinação de fatores:
+
+- concentração de entregas no último trimestre;  
+- demanda internacional crescente;  
+- backlog elevado, exigindo cumprimento de contratos;  
+- melhoria contínua da eficiência industrial.  
+
+Esses elementos se repetiram de 2021 a 2024, explicando o padrão identificado durante a análise dos dashboards e dos relatórios anuais.
+
+---
+
+---
+
+
+## 📣 Feedback do Cliente (Marcus Vinícius)
+
+---
+
+### 🔹 Sprint 1 — Feedback do Cliente
+- Solicitação para **diminuir o tamanho do mapa** no dashboard, tornando o layout mais equilibrado.
+- Nenhuma alteração funcional solicitada além desse ajuste visual.
+
+### 🔹 Resultado da Sprint 1
+- Dashboard funcional com **importação e tratamento das bases concluídos**.
+- Interface inicial entregue e **validada pelo cliente**.
+- Ajustes visuais preparados para a Sprint 2.
+
+---
+
+### 🔹 Sprint 2 — Feedback do Cliente
+- Cliente aprovou o novo layout e os ajustes visuais.
+- Solicitou:
+  - **Adicionar filtros específicos** relacionados aos produtos da **cadeia produtiva da Embraer**.
+  - **Filtrar apenas os itens relevantes da cadeia** para melhorar as análises.
+  - **Pesquisar mais a fundo** sobre os **picos de exportação da Embraer**, principalmente no final do ano.
+
+### 🔹 Resultado da Sprint 2
+- Filtros avançados adicionados ao dashboard.
+- Reorganização dos dados para permitir análises mais segmentadas.
+- Início da pesquisa aprofundada:
+  - cadeia produtiva da Embraer;
+  - principais produtos exportados;
+  - comportamento sazonal e picos anuais.
+- Dashboard atualizado e entregue ao cliente para nova validação.
+
+---
+
 
 ---
 
@@ -140,10 +212,8 @@ Exemplos:
 | 4 | Pesquisa da cadeia produtiva | ✔ Concluído |
 | 5 | Filtragem dos produtos (Sprint 3) | ✔ Concluído |
 | 6 | Análise dos picos da Embraer | ✔ Concluído |
-| 7 | Criação da API de consulta | ⏳ Em desenvolvimento |
-| 8 | Atualização automática das bases | ⏳ A definir |
-| 9 | Novas cadeias produtivas | ⏳ Futuro |
-| 10 | Documentação estendida da API | ⏳ Futuro |
+
+
 
 ---
 
