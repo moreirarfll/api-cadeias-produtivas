@@ -22,19 +22,31 @@ Responsável pelo feedback técnico, validação das entregas e direcionamento d
 
 ## 📝 Descrição Geral
 
-Este repositório apresenta o desenvolvimento do projeto de análise e visualização de cadeias produtivas do Vale do Paraíba e do Brasil, integrando cinco grandes bases de dados (cada uma com mais de um milhão de registros).  
 
-https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
+Este repositório apresenta o desenvolvimento de um projeto voltado à **análise e visualização de cadeias produtivas do Vale do Paraíba e do Brasil**, com foco específico na **cadeia produtiva do setor aeronáutico**, tendo a **Embraer** como objeto central de estudo.
 
-Ao longo de três sprints, foram desenvolvidos dashboards no Power BI, realizado o tratamento das bases e produzidas pesquisas aprofundadas sobre a cadeia produtiva da Embraer, conforme orientações do cliente.
+O trabalho integra **cinco grandes bases de dados**, cada uma com mais de **1 milhão de registros**, provenientes do portal oficial de **Estatísticas de Comércio Exterior em Dados Abertos (Comex Stat)**, disponibilizado pelo Governo Federal:  
+🔗 https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
 
-A solução permite:
+Os dados foram filtrados e tratados no **Google Colab**, considerando o período de **2021 a 2025**, com foco nas informações de **importação e exportação** relacionadas ao setor aeronáutico. Após o tratamento, as informações foram utilizadas para a criação de dashboards estratégicos no **Power BI**.
+
+Ao longo de **três sprints**, foram desenvolvidas as seguintes entregas principais:
+
+- **Tratamento e padronização das bases de dados** de comércio exterior  
+- **Filtragem avançada** para identificar fluxos relevantes da cadeia produtiva da Embraer  
+- **Desenvolvimento de dashboards no Power BI**, com visualizações estratégicas  
+- **Pesquisas aprofundadas** sobre a estrutura e dinâmica da cadeia produtiva aeronáutica  
+- **Apoio à tomada de decisão**, integrando dados de mercado, produtos e localidades
+
+O resultado é uma solução capaz de oferecer:
 
 - Consultas rápidas e filtragens avançadas  
-- Visualizações estratégicas  
-- Apoio à tomada de decisão  
+- Visualizações estratégicas e inteligentes  
 - Integração com Power BI  
-- Análises por setor, município e produto  
+- Insights por setor, município, produto e período  
+- Maior clareza sobre o posicionamento da Embraer na cadeia produtiva nacional e internacional  
+
+
 
 ---
 
