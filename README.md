@@ -109,124 +109,39 @@ https://github.com/user-attachments/assets/0b52ffd2-ac8b-4d32-b938-cc0fe43fe11b
 
 ---
 
-# 🧠 Pesquisas da Cadeia Produtiva 
+## 🌐 Pesquisa Sobre Cadeia Produtiva
 
-A região de **São José dos Campos / Vale do Paraíba** é reconhecida como o principal polo aeroespacial do Brasil. Ela reúne:
-
-- A sede central da **Embraer**, maior empresa de tecnologia aeroespacial do país;
-- Instituições de referência como **ITA**, **DCTA** e **INPE**, que formam engenheiros e produzem pesquisa de ponta;
-- O **Parque Tecnológico de SJC**, com mais de 100 empresas aeroespaciais, startups e laboratórios;
-- Uma densa rede de fornecedores industriais especializados em metais, compósitos, eletrônica e sistemas aeronáuticos.
-
-Essa combinação cria um dos ecossistemas tecnológicos mais avançados da América Latina, com forte integração entre **indústria — academia — governo**.
+Aqui apresentamos nossa pesquisa sobre a **cadeia produtiva aeronáutica no Vale do Paraíba**, com foco na atuação da **Embraer** e na análise das exportações entre **2021 e 2024**.  
+O conteúdo foi organizado para oferecer uma visão clara e objetiva do ecossistema aeroespacial brasileiro — um dos maiores polos tecnológicos da América Latina.
 
 
-## 🧩Estrutura da Cadeia Produtiva Aeronáutica Brasileira
+## ✈️ Sobre a Pesquisa
 
-A cadeia produtiva aeronáutica é complexa e altamente interdependente. Suas etapas principais incluem:
+A região de São José dos Campos concentra o principal polo aeronáutico do país, reunindo empresas, centros de pesquisa e instituições estratégicas como:
 
-### **a) Pesquisa, Desenvolvimento e Projeto**
-Realizada por ITA, DCTA, universidades e centros internos da Embraer.  
-Inclui: projeto estrutural, aviónica, aerodinâmica, materiais e testes.
+- Embraer  
+- DCTA  
+- INPE  
+- ITA  
+- Parque Tecnológico SJC  
 
-### **b) Fabricação de Componentes**
-Engloba usinagem, estamparia, compósitos, eletrônica, sistemas hidráulicos e elétricos.  
-Grande parte desses fornecedores está no Vale do Paraíba.
+Essas organizações formam uma cadeia integrada que pesquisa, desenvolve, produz e certifica tecnologias aeroespaciais, conectando fornecedores nacionais e internacionais e impulsionando a inovação no setor.
 
-### **c) Montagem e Integração Final**
-Executada nas unidades da Embraer em SJC (como o complexo de Eugênio de Melo).  
-É a fase onde a aeronave ganha forma final.
+Nossa análise também evidencia um padrão recorrente nas exportações da **Embraer** entre 2021 e 2024:
 
-### **d) Testes, Certificação e Homologação**
-Etapa altamente regulada, envolvendo testes em solo e em voo.
+- A maior parte das entregas ocorre no **4º trimestre**  
+- Forte demanda internacional em todos os anos analisados  
+- **Backlog elevado**, exigindo aceleração de entregas no fim do ano  
+- Melhoria contínua da **eficiência produtiva**  
 
-### **e) Pós-venda / MRO e Serviços**
-Manutenção, reparos, peças de reposição e suporte ao longo do ciclo de vida das aeronaves.
-
-
-## 🏢 Principais Atores da Região
-
-- **Embraer** – empresa âncora que coordena a cadeia.  
-- **ITA, DCTA e INPE** – centros formadores de talentos e P&D avançado.  
-- **Parque Tecnológico SJC** – abriga empresas de alta tecnologia e programas de qualificação.  
-- **Fornecedores locais (PMEs e médias indústrias)** – responsáveis por grande parte dos componentes.  
-- **BNDES e órgãos estaduais** – atuam no fomento e na formulação de políticas industriais.  
-
-O ecossistema funciona como um **cluster**, com integração territorial, fluxos de conhecimento e interdependência produtiva.
+Esses fatores explicam o aumento expressivo das exportações no encerramento de cada exercício.
 
 
-# 🔎Por que as exportações da Embraer aumentam no final do ano? (2021–2024)
+## 📄 Relatório Completo
 
-Ao analisar os relatórios anuais da Embraer, foi identificado um **padrão recorrente** em todos os anos de 2021 a 2024: **as exportações aumentam significativamente no quarto trimestre**.  
-A explicação envolve quatro fatores principais:
+Para acessar o conteúdo completo, incluindo gráficos, análises aprofundadas e referências utilizadas, clique no link abaixo:
 
-
-
-### **1. Concentração das entregas no 4º trimestre**
-Clientes internacionais — que representam **mais de 90% das vendas da Embraer** — costumam **fechar recebimentos antes do encerramento fiscal anual**.  
-Por isso, a Embraer acelera as entregas no fim do ano, elevando automaticamente o volume exportado.
-
-
-### **2. Forte demanda internacional**
-O mercado global impulsionou a empresa em todos os anos analisados:
-
-- **2021** – retomada pós-pandemia e recuperação do setor aéreo;  
-- **2022–2023** – crescimento do mercado de jatos leves e comerciais;  
-- **2024** – maior volume de entregas do período, segundo o próprio relatório anual.
-
-Assim, quando a demanda global cresce, mais aeronaves são enviadas para o exterior — especialmente no final do ano.
-
-
-### **3. Backlog elevado (carteira de pedidos crescente)**
-Os relatórios mostram um backlog robusto, especialmente:
-
-- Em **2023**, quando a carteira atingiu o maior nível em vários anos.  
-
-Quando existem muitos pedidos acumulados, a empresa precisa acelerar entregas no 4º trimestre para cumprir contratos — o que novamente eleva as exportações.
-
-
-### **4. Melhoria da eficiência industrial**
-A Embraer relatou, ano após ano:
-
-- reforço da cadeia de suprimentos,  
-- normalização logística pós-pandemia,  
-- e aumento de capacidade produtiva.
-
-Como consequência, mais aeronaves ficam prontas justamente no fim do ano — momento estratégico para entrega aos clientes.
-
-O crescimento das exportações no final de cada ano não é acidental — ele é resultado de:
-
-- estratégia industrial;  
-- comportamento fiscal dos clientes internacionais;  
-- elevação do backlog;  
-- e amadurecimento produtivo ao longo do ano.
-
-É um movimento consistente e esperado dentro do modelo operacional da Embraer.
-
-
-##### 🔗 _Fontes Utilizadas_
-
-- _Embraer – Cadeia de Suprimentos  
-  https://www.embraer.com/corporate-suppliers-procurement-and-supply-chain/pt/_
-
-- _Relatórios Anuais — Embraer  
-  https://ri.embraer.com.br/informacoes-financeiras/relatorios-anuais/_
-
-- _Cluster Aeroespacial Brasileiro — PqTec SJC  
-  https://pitsjc.org.br/en/projects/brazilian-aerospace-cluster/_
-
-- _BNDES — Cadeia Produtiva Aeronáutica Brasileira  
-  https://web.bndes.gov.br/bib/jspui/bitstream/1408/1911/2/Cadeia%20Produtiva%20Aeron%C3%A1utica%20Brasileira_A_P.pdf_
-
--_UNICAMP — Estudos sobre dinâmica territorial e cadeia aeronáutica  
-  https://www.ige.unicamp.br/gestaodainovacao/2022/08/30/mapeamento-da-cadeia-produtiva-aeronautica-brasileira-cab/_
-
-- _Prefeitura de São José dos Campos — Economia Aeroespacial  
-  https://www.sjc.sp.gov.br/noticias/2023/outubro/17/cadeia-aeronautica-gera-metade-do-emprego-industrial-da-cidade/_
-
-- _InvesteSP — Setor Aeroespacial  
-  https://www.investe.sp.gov.br/setores-de-negocios/aeroespacial-e-defesa/_
-
+[📘 **Relatório Completo — Pesquisa_Embraer**](./Pesquisa_Embraer.docx)
 
 
 
