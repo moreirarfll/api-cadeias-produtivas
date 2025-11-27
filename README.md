@@ -20,7 +20,6 @@
 O projeto foi desenvolvido para o **cliente Sebastião Cavali**, responsável pela demanda original e pelos requisitos principais da solução.
 
 Durante o processo, o **Professor Marcus Vinicius** atuou como **representante oficial do cliente**, realizando as validações, revisões e fornecendo feedbacks essenciais para o direcionamento correto do desenvolvimento. Sua participação garantiu alinhamento entre as expectativas do cliente e as entregas do projeto.
-va.
 
 ---
 
@@ -86,7 +85,7 @@ https://github.com/user-attachments/assets/517173f7-d747-4edd-8034-3c86089b26b8
 
 ---
 
-# 📅 Sprint 3 — Filtragem Avançada e Pesquisa Aprofundada da Embraer
+## 📅 Sprint 3 — Filtragem Avançada e Pesquisa Aprofundada da Embraer
 
 ### ✔ Entregas Principais
 - Filtragem avançada dos produtos da cadeia produtiva da Embraer  
