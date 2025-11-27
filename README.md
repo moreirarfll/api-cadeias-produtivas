@@ -23,29 +23,20 @@ Responsável pelo feedback técnico, validação das entregas e direcionamento d
 # 📝 Descrição Geral
 
 
-Este repositório apresenta o desenvolvimento de um projeto voltado à **análise e visualização de cadeias produtivas do Vale do Paraíba e do Brasil**, com foco específico na **cadeia produtiva do setor aeronáutico**, tendo a **Embraer** como objeto central de estudo.
-
-O trabalho integra **cinco grandes bases de dados**, cada uma com mais de **1 milhão de registros**, provenientes do portal oficial de **Estatísticas de Comércio Exterior em Dados Abertos (Comex Stat)**, disponibilizado pelo Governo Federal:  
+   Este repositório apresenta um projeto de análise da **cadeia produtiva do setor aeronáutico**, com foco na **Embraer**, utilizando dados públicos do **Comex Stat**:  
 🔗 https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
 
-Os dados foram filtrados e tratados no **Google Colab**, considerando o período de **2021 a 2025**, com foco nas informações de **importação e exportação** relacionadas ao setor aeronáutico. Após o tratamento, as informações foram utilizadas para a criação de dashboards estratégicos no **Power BI**.
+Foram integradas **cinco grandes bases de dados** (cada uma com mais de 1 milhão de registros), filtradas e tratadas no **Google Colab** para o período de **2021 a 2025**, com foco em importação e exportação. A partir desse processamento, foram desenvolvidos **dashboards estratégicos no Power BI**.
 
-Ao longo de **três sprints**, foram desenvolvidas as seguintes entregas principais:
+O projeto foi conduzido pelo **método ágil Scrum**, organizado em **3 sprints**, e finalizado com uma **apresentação na Feira de Soluções** da Faculdade de Tecnologia do Estado de São Paulo (FATEC São José dos Campos - Prof. Jessen Vidal).
 
-- **Tratamento e padronização das bases de dados** de comércio exterior  
-- **Filtragem avançada** para identificar fluxos relevantes da cadeia produtiva da Embraer  
-- **Desenvolvimento de dashboards no Power BI**, com visualizações estratégicas  
-- **Pesquisas aprofundadas** sobre a estrutura e dinâmica da cadeia produtiva aeronáutica  
-- **Apoio à tomada de decisão**, integrando dados de mercado, produtos e localidades
-
-O resultado é uma solução capaz de oferecer:
-
-- Consultas rápidas e filtragens avançadas  
-- Visualizações estratégicas e inteligentes  
-- Integração com Power BI  
+Principais entregas:
+- Tratamento e filtragem avançada das bases do Comex Stat  
+- Criação de dashboards interativos no Power BI  
+- Pesquisa estruturada sobre a cadeia produtiva da Embraer  
 - Insights por setor, município, produto e período  
-- Maior clareza sobre o posicionamento da Embraer na cadeia produtiva nacional e internacional  
 
+O resultado oferece uma visão clara e estratégica do posicionamento da cadeia produtiva nacional e internacional.
 
 
 ---
