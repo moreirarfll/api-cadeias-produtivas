@@ -18,7 +18,7 @@
 Responsável pelo feedback técnico, validação das entregas e direcionamento da análise da cadeia produtiva.
 
 ---
-[📘 **Relatório Completo — Pesquisa_Embraer**](./Pesquisa_Embraer)
+[📘 **Relatório Completo — Pesquisa_Embraer**](./Pesquisa_Embraer.docx)
 
 
 # Descrição Geral
