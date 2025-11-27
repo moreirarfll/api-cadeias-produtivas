@@ -18,20 +18,10 @@
 Responsável pelo feedback técnico, validação das entregas e direcionamento da análise da cadeia produtiva.
 
 ---
-# Projeto — Pesquisa e Análise de Cadeias Produtivas
-
-## 📑 Sumário
-
-- [Descrição Geral](#descrição-geral)
-- [Sprint 1 — Integração e Dashboard Inicial](#sprint-1-—-integração-e-dashboard-inicial)
-- [Sprint 2 — Melhorias, Feedback e Pesquisas](#sprint-2-—-melhorias-feedback-e-pesquisas)
-- [Sprint 3 — Filtragem Avançada e Pesquisa Aprofundada](#sprint-3-—-filtragem-avançada-e-pesquisa-aprofundada)
-- [Pesquisas da Cadeia Produtiva](#pesquisas-da-cadeia-produtiva)
-- [Por que as exportações da Embraer aumentam no final do ano? (2021–2024)](#por-que-as-exportações-da-embraer-aumentam-no-final-do-ano-2021–2024)
-- [Fontes Utilizadas](#fontes-utilizadas)
+[📘 **Relatório Completo — Pesquisa_Embraer**](./Pesquisa_Embraer)
 
 
-# 📝 Descrição Geral
+# Descrição Geral
 
 
    Este repositório apresenta um projeto de análise da **cadeia produtiva do setor aeronáutico**, com foco na **Embraer**, utilizando dados públicos do **Comex Stat**:  
