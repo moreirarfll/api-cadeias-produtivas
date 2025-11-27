@@ -1,4 +1,4 @@
-<h1 align="center">📊 Projeto — API de Pesquisa e Análise de Cadeias Produtivas</h1>
+<h1 align="center">📊 Projeto — Pesquisa e Análise de Cadeias Produtivas</h1>
 
 <h3 align="center">Conclusão do Projeto | Power BI + Integração de Dados<h3 align="center">
 
@@ -20,7 +20,7 @@ Responsável pelo feedback técnico, validação das entregas e direcionamento d
 ---
 
 
-## 📝 Descrição Geral
+# 📝 Descrição Geral
 
 
 Este repositório apresenta o desenvolvimento de um projeto voltado à **análise e visualização de cadeias produtivas do Vale do Paraíba e do Brasil**, com foco específico na **cadeia produtiva do setor aeronáutico**, tendo a **Embraer** como objeto central de estudo.
