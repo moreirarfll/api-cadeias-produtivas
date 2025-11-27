@@ -18,7 +18,6 @@
 Responsável pelo feedback técnico, validação das entregas e direcionamento da análise da cadeia produtiva.
 
 ---
-[📘 **Relatório Completo — Pesquisa_Embraer**](./Pesquisa_Embraer.docx)
 
 
 # Descrição Geral
@@ -142,39 +141,6 @@ Esses fatores explicam o aumento expressivo das exportações no encerramento de
 Para acessar o conteúdo completo, incluindo gráficos, análises aprofundadas e referências utilizadas, clique no link abaixo:
 
 [📘 **Relatório Completo — Pesquisa_Embraer**](./Pesquisa_Embraer.docx)
-
-
-
-## 📣 Feedback do Cliente (Marcus Vinícius)
-
-
-### 🔹 Sprint 1 — Feedback do Cliente
-- Solicitação para **diminuir o tamanho do mapa** no dashboard, tornando o layout mais equilibrado.
-- Nenhuma alteração funcional solicitada além desse ajuste visual.
-
-### 🔹 Resultado da Sprint 1
-- Dashboard funcional com **importação e tratamento das bases concluídos**.
-- Interface inicial entregue e **validada pelo cliente**.
-- Ajustes visuais preparados para a Sprint 2.
-
-
-### 🔹 Sprint 2 — Feedback do Cliente
-- Cliente aprovou o novo layout e os ajustes visuais.
-- Solicitou:
-  - **Adicionar filtros específicos** relacionados aos produtos da **cadeia produtiva da Embraer**.
-  - **Filtrar apenas os itens relevantes da cadeia** para melhorar as análises.
-  - **Pesquisar mais a fundo** sobre os **picos de exportação da Embraer**, principalmente no final do ano.
-
-### 🔹 Resultado da Sprint 2
-- Filtros avançados adicionados ao dashboard.
-- Reorganização dos dados para permitir análises mais segmentadas.
-- Início da pesquisa aprofundada:
-  - cadeia produtiva da Embraer;
-  - principais produtos exportados;
-  - comportamento sazonal e picos anuais.
-- Dashboard atualizado e entregue ao cliente para nova validação.
-
----
 
 
 
