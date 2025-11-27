@@ -107,6 +107,11 @@ O projeto evoluiu de forma consistente ao longo das três sprints, passando desd
 <img width="1446" height="804" alt="FILTO2" src="https://github.com/user-attachments/assets/e0f74641-63e6-4b43-b37e-3cf902979616" />
 <img width="1432" height="806" alt="FILTO" src="https://github.com/user-attachments/assets/0a0c84d4-b5ee-406f-b094-0af02b50eecf" />
 
+
+https://github.com/user-attachments/assets/0b52ffd2-ac8b-4d32-b938-cc0fe43fe11b
+
+
+
 ---
 
 # 🧠 Pesquisas da Cadeia Produtiva — EMBRAER ✈️
