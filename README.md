@@ -4,6 +4,8 @@
 
 ## 👥 Participantes do Projeto
 
+![Black and White Modern Thesis Defense Research Presentation](https://github.com/user-attachments/assets/4026d806-db58-4d5f-a1b1-d5d990ad1fa3)
+
  | Nome | Função no Projeto |
 |------|-------------------|
 | Anita Confessor |  Equipe de Desenvolvimento|
@@ -12,10 +14,13 @@
 | Rafael Bastos | Equipe de Desenvolvimento |
 | Rafaela Moreira | Product Owner |
 
-##  Cliente
 
-**Marcus Vinícius**  
-Responsável pelo feedback técnico, validação das entregas e direcionamento da análise da cadeia produtiva.
+## 👤 Cliente e Representação
+
+O projeto foi desenvolvido para o **cliente Sebastião Cavali**, responsável pela demanda original e pelos requisitos principais da solução.
+
+Durante o processo, o **Professor Marcus Vinicius** atuou como **representante oficial do cliente**, realizando as validações, revisões e fornecendo feedbacks essenciais para o direcionamento correto do desenvolvimento. Sua participação garantiu alinhamento entre as expectativas do cliente e as entregas do projeto.
+va.
 
 ---
 
