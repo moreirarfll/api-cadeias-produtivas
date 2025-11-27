@@ -41,52 +41,42 @@ O resultado oferece uma visão clara e estratégica do posicionamento da cadeia 
 
 ---
 
-## 🚀 Conclusão Geral do Projeto
-
-O projeto evoluiu de forma consistente ao longo das três sprints, passando desde a integração das bases e criação do dashboard inicial até a análise detalhada da cadeia produtiva da Embraer e a investigação dos picos de exportação no fim do ano, conforme o feedback do cliente.
-
----
-
-# 📅 Sprint 1 — Integração e Dashboard Inicial
+## 📅 Sprint 1 — Integração e Dashboard Inicial
 
 ### ✔ Entregas Principais
 - Unificação das bases de dados no Google Colab
 - Tratamento dos dados (SH4, países, municípios, VL_FOB etc.)  
 - Criação da base consolidada com 5 anos de exportações  
-- Desenvolvimento do primeiro dashboard no Power BI  
-- Análise inicial dos indicadores estratégicos  
-- Publicação do repositório e documentação inicial  
+- Desenvolvimento do primeiro dashboard no Power BI    
 
----
 
 ## 📸 Dashboards da Sprint 1  
 
-<img width="1467" height="811" alt="API1" src="https://github.com/user-attachments/assets/3f7df0b6-3aee-49b2-bb23-68181e954b52" />
+
+
+https://github.com/user-attachments/assets/d1374a38-e768-435f-801f-8dd6b5073af6
+
+<h3 align="center">video de apresentação do dashboard da primeira sprint<h3 align="center">
 
 
 ---
 
-# 📅 Sprint 2 — Melhorias, Feedback do Cliente e Pesquisas
+## 📅 Sprint 2 — Melhorias, Feedback do Cliente e Pesquisas
 
 ### ✔ Entregas Principais
 - Ajustes no dashboard com base no feedback do cliente  
 - Criação de novos visuais, filtros e segmentações  
 - Revisão da modelagem da base para facilitar análises  
 - Início das pesquisas sobre a cadeia produtiva da Embraer:  
-  - Principais produtos  
-  - Fluxo produtivo  
-  - Impacto econômico  
 - Documentação das melhorias e publicação da versão atualizada  
 
 ---
 
 ## 📸 Dashboards da Sprint 2  
 
-<img width="1422" height="797" alt="Sem título" src="https://github.com/user-attachments/assets/0fcf9e9c-0d63-4a48-96a3-edbf49511898" />
-<img width="1431" height="806" alt="EXP" src="https://github.com/user-attachments/assets/8547723f-576d-46c5-b30c-69a4a3ac5987" />
-<img width="1429" height="794" alt="MAIS" src="https://github.com/user-attachments/assets/1c17e262-1ce1-4060-aa4c-e4d8a1004031" />
-<img width="1417" height="795" alt="MAIS IMP" src="https://github.com/user-attachments/assets/24097ae9-53b4-48d0-a5cb-5154d30319da" />
 
+
+https://github.com/user-attachments/assets/517173f7-d747-4edd-8034-3c86089b26b8
 
 
 ---
@@ -118,59 +108,125 @@ https://github.com/user-attachments/assets/0b52ffd2-ac8b-4d32-b938-cc0fe43fe11b
 
 ---
 
-# 🧠 Pesquisas da Cadeia Produtiva — EMBRAER ✈️
+# 🧠 Pesquisas da Cadeia Produtiva 
+
+A região de **São José dos Campos / Vale do Paraíba** é reconhecida como o principal polo aeroespacial do Brasil. Ela reúne:
+
+- A sede central da **Embraer**, maior empresa de tecnologia aeroespacial do país;
+- Instituições de referência como **ITA**, **DCTA** e **INPE**, que formam engenheiros e produzem pesquisa de ponta;
+- O **Parque Tecnológico de SJC**, com mais de 100 empresas aeroespaciais, startups e laboratórios;
+- Uma densa rede de fornecedores industriais especializados em metais, compósitos, eletrônica e sistemas aeronáuticos.
+
+Essa combinação cria um dos ecossistemas tecnológicos mais avançados da América Latina, com forte integração entre **indústria — academia — governo**.
 
 
-A seguir está a análise desenvolvida pelo grupo para explicar o padrão de aumento das exportações da Embraer no último trimestre de cada ano.
+## 🧩Estrutura da Cadeia Produtiva Aeronáutica Brasileira
 
-### 📌 Resumo da Análise
-Ao longo das análises e dos relatórios anuais, identificamos quatro fatores principais que justificam o crescimento das exportações nos meses finais:
+A cadeia produtiva aeronáutica é complexa e altamente interdependente. Suas etapas principais incluem:
 
----
+### **a) Pesquisa, Desenvolvimento e Projeto**
+Realizada por ITA, DCTA, universidades e centros internos da Embraer.  
+Inclui: projeto estrutural, aviónica, aerodinâmica, materiais e testes.
 
-### **1. Concentração das entregas no quarto trimestre**
-- A Embraer realiza a maior parte das entregas **entre outubro e dezembro**.
-- Clientes internacionais costumam **receber aeronaves antes do fechamento fiscal**.
-- Como mais aeronaves são entregues, o volume exportado aumenta automaticamente.
+### **b) Fabricação de Componentes**
+Engloba usinagem, estamparia, compósitos, eletrônica, sistemas hidráulicos e elétricos.  
+Grande parte desses fornecedores está no Vale do Paraíba.
 
----
+### **c) Montagem e Integração Final**
+Executada nas unidades da Embraer em SJC (como o complexo de Eugênio de Melo).  
+É a fase onde a aeronave ganha forma final.
 
-### **2. Demanda internacional elevada**
-- Mais de **90% das vendas** da Embraer são para o exterior.
-- **2021:** retomada pós-pandemia, com forte recuperação.
-- **2022 e 2023:** crescimento contínuo do setor aeronáutico global.
-- **2024:** maior volume de entregas do intervalo analisado.
-- A demanda externa elevada puxa o aumento das exportações no fim do ano.
+### **d) Testes, Certificação e Homologação**
+Etapa altamente regulada, envolvendo testes em solo e em voo.
 
----
+### **e) Pós-venda / MRO e Serviços**
+Manutenção, reparos, peças de reposição e suporte ao longo do ciclo de vida das aeronaves.
 
-### **3. Backlog crescente (carteira de pedidos)**
-- Em diversos relatórios, especialmente 2023, a Embraer destaca que o backlog está **cada vez maior**.
-- Com mais pedidos acumulados, a empresa acelera entregas no fim do ano para **cumprir contratos internacionais**.
-- Isso contribui diretamente para o aumento das exportações.
 
----
+## 🏢 Principais Atores da Região
 
-### **4. Eficiência industrial e normalização da cadeia produtiva**
-- A Embraer vem apresentando avanços contínuos:
-  - aumento da eficiência operacional,
-  - normalização da cadeia de suprimentos,
-  - maior capacidade de produção.
-- Isso permite que **mais aeronaves fiquem prontas no fim do ano**, ampliando o volume exportado.
+- **Embraer** – empresa âncora que coordena a cadeia.  
+- **ITA, DCTA e INPE** – centros formadores de talentos e P&D avançado.  
+- **Parque Tecnológico SJC** – abriga empresas de alta tecnologia e programas de qualificação.  
+- **Fornecedores locais (PMEs e médias indústrias)** – responsáveis por grande parte dos componentes.  
+- **BNDES e órgãos estaduais** – atuam no fomento e na formulação de políticas industriais.  
 
----
+O ecossistema funciona como um **cluster**, com integração territorial, fluxos de conhecimento e interdependência produtiva.
 
-### 🧾 **Conclusão da Pesquisa**
-Os picos de exportação da Embraer no fim do ano acontecem devido a uma combinação de fatores:
 
-- concentração de entregas no último trimestre;  
-- demanda internacional crescente;  
-- backlog elevado, exigindo cumprimento de contratos;  
-- melhoria contínua da eficiência industrial.  
+# 🔎Por que as exportações da Embraer aumentam no final do ano? (2021–2024)
 
-Esses elementos se repetiram de 2021 a 2024, explicando o padrão identificado durante a análise dos dashboards e dos relatórios anuais.
+Ao analisar os relatórios anuais da Embraer, foi identificado um **padrão recorrente** em todos os anos de 2021 a 2024: **as exportações aumentam significativamente no quarto trimestre**.  
+A explicação envolve quatro fatores principais:
 
----
+
+
+### **1. Concentração das entregas no 4º trimestre**
+Clientes internacionais — que representam **mais de 90% das vendas da Embraer** — costumam **fechar recebimentos antes do encerramento fiscal anual**.  
+Por isso, a Embraer acelera as entregas no fim do ano, elevando automaticamente o volume exportado.
+
+
+### **2. Forte demanda internacional**
+O mercado global impulsionou a empresa em todos os anos analisados:
+
+- **2021** – retomada pós-pandemia e recuperação do setor aéreo;  
+- **2022–2023** – crescimento do mercado de jatos leves e comerciais;  
+- **2024** – maior volume de entregas do período, segundo o próprio relatório anual.
+
+Assim, quando a demanda global cresce, mais aeronaves são enviadas para o exterior — especialmente no final do ano.
+
+
+### **3. Backlog elevado (carteira de pedidos crescente)**
+Os relatórios mostram um backlog robusto, especialmente:
+
+- Em **2023**, quando a carteira atingiu o maior nível em vários anos.  
+
+Quando existem muitos pedidos acumulados, a empresa precisa acelerar entregas no 4º trimestre para cumprir contratos — o que novamente eleva as exportações.
+
+
+### **4. Melhoria da eficiência industrial**
+A Embraer relatou, ano após ano:
+
+- reforço da cadeia de suprimentos,  
+- normalização logística pós-pandemia,  
+- e aumento de capacidade produtiva.
+
+Como consequência, mais aeronaves ficam prontas justamente no fim do ano — momento estratégico para entrega aos clientes.
+
+O crescimento das exportações no final de cada ano não é acidental — ele é resultado de:
+
+- estratégia industrial;  
+- comportamento fiscal dos clientes internacionais;  
+- elevação do backlog;  
+- e amadurecimento produtivo ao longo do ano.
+
+É um movimento consistente e esperado dentro do modelo operacional da Embraer.
+
+
+##### 🔗 _Fontes Utilizadas_
+
+- _Embraer – Cadeia de Suprimentos  
+  https://www.embraer.com/corporate-suppliers-procurement-and-supply-chain/pt/_
+
+- _Relatórios Anuais — Embraer  
+  https://ri.embraer.com.br/informacoes-financeiras/relatorios-anuais/_
+
+- _Cluster Aeroespacial Brasileiro — PqTec SJC  
+  https://pitsjc.org.br/en/projects/brazilian-aerospace-cluster/_
+
+- _BNDES — Cadeia Produtiva Aeronáutica Brasileira  
+  https://web.bndes.gov.br/bib/jspui/bitstream/1408/1911/2/Cadeia%20Produtiva%20Aeron%C3%A1utica%20Brasileira_A_P.pdf_
+
+-_UNICAMP — Estudos sobre dinâmica territorial e cadeia aeronáutica  
+  https://www.ige.unicamp.br/gestaodainovacao/2022/08/30/mapeamento-da-cadeia-produtiva-aeronautica-brasileira-cab/_
+
+- _Prefeitura de São José dos Campos — Economia Aeroespacial  
+  https://www.sjc.sp.gov.br/noticias/2023/outubro/17/cadeia-aeronautica-gera-metade-do-emprego-industrial-da-cidade/_
+
+- _InvesteSP — Setor Aeroespacial  
+  https://www.investe.sp.gov.br/setores-de-negocios/aeroespacial-e-defesa/_
+
+
 
 
 ## 📣 Feedback do Cliente (Marcus Vinícius)
