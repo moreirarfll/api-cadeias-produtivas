@@ -1,6 +1,6 @@
 <h1 align="center">📊 Projeto — API de Pesquisa e Análise de Cadeias Produtivas</h1>
 
-<h3 align="center">Conclusão do Projeto | Power BI + Integração de Dados</h3>
+<h3 align="center">Conclusão do Projeto | Power BI + Integração de Dados<h3 align="center">
 
 ## 👥 Participantes do Projeto
 
@@ -168,12 +168,9 @@ Esses elementos se repetiram de 2021 a 2024, explicando o padrão identificado d
 
 ---
 
----
-
 
 ## 📣 Feedback do Cliente (Marcus Vinícius)
 
----
 
 ### 🔹 Sprint 1 — Feedback do Cliente
 - Solicitação para **diminuir o tamanho do mapa** no dashboard, tornando o layout mais equilibrado.
@@ -184,7 +181,6 @@ Esses elementos se repetiram de 2021 a 2024, explicando o padrão identificado d
 - Interface inicial entregue e **validada pelo cliente**.
 - Ajustes visuais preparados para a Sprint 2.
 
----
 
 ### 🔹 Sprint 2 — Feedback do Cliente
 - Cliente aprovou o novo layout e os ajustes visuais.
@@ -205,7 +201,6 @@ Esses elementos se repetiram de 2021 a 2024, explicando o padrão identificado d
 ---
 
 
----
 
 # 📌 Backlog Geral do Projeto  
 
@@ -222,4 +217,4 @@ Esses elementos se repetiram de 2021 a 2024, explicando o padrão identificado d
 
 ---
 
-<h3 align="center">🔧 Desenvolvido pelo Grupo — Gestão da Produção Industrial | 2025</h3
+<h3 align="center">🔧 Desenvolvido pelo Grupo CONEXA - Gestão da Produção Industrial | 2025</h3
