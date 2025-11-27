@@ -12,9 +12,7 @@
 | Rafael Bastos | Equipe de Desenvolvimento |
 | Rafaela Moreira | Product Owner |
 
----
-
-## 🧑‍💼 Cliente
+##  Cliente
 
 **Marcus Vinícius**  
 Responsável pelo feedback técnico, validação das entregas e direcionamento da análise da cadeia produtiva.
@@ -25,6 +23,9 @@ Responsável pelo feedback técnico, validação das entregas e direcionamento d
 ## 📝 Descrição Geral
 
 Este repositório apresenta o desenvolvimento do projeto de análise e visualização de cadeias produtivas do Vale do Paraíba e do Brasil, integrando cinco grandes bases de dados (cada uma com mais de um milhão de registros).  
+
+https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
+
 Ao longo de três sprints, foram desenvolvidos dashboards no Power BI, realizado o tratamento das bases e produzidas pesquisas aprofundadas sobre a cadeia produtiva da Embraer, conforme orientações do cliente.
 
 A solução permite:
