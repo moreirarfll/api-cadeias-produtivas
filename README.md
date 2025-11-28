@@ -49,6 +49,8 @@ Somente usuários com **e-mail institucional da Faculdade de Tecnologia do Estad
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/rafaela_moreira01_fatec_sp_gov_br/IQAqwAuMUd_bQ4QwYDevAwx4AanK9GjC9xw97fY__f2P8sw?e=pSnbHs
 
 
+![Black and White Modern Thesis Defense Research Presentation](https://github.com/user-attachments/assets/80a10cf2-ce8a-4aca-8089-a8ba46ffa730)
+
 
 ![4](https://github.com/user-attachments/assets/65717823-a637-41bc-af7e-ed71898320b2)
 
@@ -197,5 +199,8 @@ https://trello.com/invite/b/690a9142ef8d0e9473e531ca/ATTI59d0656723506cebbf53653
 
 
 ---
+
+
+
 
 <h3 align="center">🔧 Desenvolvido pelo Grupo CONEXA - Gestão da Produção Industrial | 2025</h3
