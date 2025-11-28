@@ -42,6 +42,11 @@ Principais entregas:
 
 O resultado oferece uma visão clara e estratégica do posicionamento da cadeia produtiva nacional e internacional.
 
+## Dashboard
+O dashboard está hospedado externamente.
+Somente usuários com **e-mail institucional da Faculdade de Tecnologia do Estado de São Paulo – FATEC São José dos Campos (Jessen Vidal)** têm permissão de acesso.
+
+https://fatecspgov-my.sharepoint.com/:u:/g/personal/rafaela_moreira01_fatec_sp_gov_br/IQAqwAuMUd_bQ4QwYDevAwx4AanK9GjC9xw97fY__f2P8sw?e=pSnbHs
 
 ---
 
