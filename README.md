@@ -48,6 +48,31 @@ Somente usuários com **e-mail institucional da Faculdade de Tecnologia do Estad
 
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/rafaela_moreira01_fatec_sp_gov_br/IQAqwAuMUd_bQ4QwYDevAwx4AanK9GjC9xw97fY__f2P8sw?e=pSnbHs
 
+
+
+![4](https://github.com/user-attachments/assets/65717823-a637-41bc-af7e-ed71898320b2)
+
+
+![5](https://github.com/user-attachments/assets/863cfc00-6159-4177-9de2-634f61529c61)
+
+
+![6](https://github.com/user-attachments/assets/1e0ba580-f543-4cd2-9c1d-334ec3a7ea6e)
+
+
+![7](https://github.com/user-attachments/assets/a887e476-e03d-4406-9ac8-c2715fedbb18)
+
+
+![8](https://github.com/user-attachments/assets/7efff554-8003-4e7d-b1c3-baaf12c01f74)
+
+
+![9](https://github.com/user-attachments/assets/1c7893b0-0d5c-419b-b53d-04af680c044f)
+
+
+
+
+
+
+
 ---
 
 ## 📅 Sprint 1 — Integração e Dashboard Inicial
@@ -61,11 +86,11 @@ https://fatecspgov-my.sharepoint.com/:u:/g/personal/rafaela_moreira01_fatec_sp_g
 
 ## 📸 Dashboards da Sprint 1  
 
+<img width="1367" height="765" alt="image" src="https://github.com/user-attachments/assets/3d392987-09d1-45b4-9441-da2e0056ae4d" />
+
 
 
 https://github.com/user-attachments/assets/d1374a38-e768-435f-801f-8dd6b5073af6
-
-<h3 align="center">video de apresentação do dashboard da primeira sprint<h3 align="center">
 
 
 ---
@@ -83,9 +108,10 @@ https://github.com/user-attachments/assets/d1374a38-e768-435f-801f-8dd6b5073af6
 
 ## 📸 Dashboards da Sprint 2  
 
+<img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/7a9cfa60-37c1-49c0-9895-0ddad7505f98" />
 
+<img width="1306" height="732" alt="image" src="https://github.com/user-attachments/assets/3ccc0788-9be5-494a-8c47-b234965c6fec" />
 
-https://github.com/user-attachments/assets/517173f7-d747-4edd-8034-3c86089b26b8
 
 
 ---
