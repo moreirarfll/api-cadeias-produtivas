@@ -181,6 +181,10 @@ Para acessar o conteúdo completo, incluindo gráficos, análises aprofundadas e
 
 # 📌 Backlog Geral do Projeto  
 
+<img width="1914" height="913" alt="image" src="https://github.com/user-attachments/assets/a0a0dcf4-ed83-4ad6-a277-d4b3fe3b484a" />
+
+https://trello.com/invite/b/690a9142ef8d0e9473e531ca/ATTI59d0656723506cebbf5365315414d0c0FB8EFBB6/meu-quadro-do-trello
+
 | Item | Descrição | Status |
 |------|-----------|--------|
 | 1 | Unificação das bases no Colab | ✔ Concluído |
